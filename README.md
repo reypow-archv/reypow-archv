@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi Semuanya 👋
+
+Perkenalkan nama saya **Reynhard Powiwi**.\
+
+Saya seorang **Mahasiswa Informatika** di Telkom University .\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/reynhard-powiwi/)ku ya.
 
 <!--
 **reypow-archv/reypow-archv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
