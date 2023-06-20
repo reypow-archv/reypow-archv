@@ -24,4 +24,4 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
 Terima kasih telah mengunjungi profil saya! Jika Anda memiliki pertanyaan atau ingin berhubungan dengan saya, jangan ragu untuk menghubungi saya melalui LinkedIn atau Instagram. Saya berharap dapat berkolaborasi dengan Anda pada proyek yang menarik!
 
 Salam,
-Nama Anda
+Reynhard
