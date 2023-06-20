@@ -1,11 +1,27 @@
+# Halo Semuanya! 👋
 
-# Hi Semuanya 👋
+Selamat datang di profil saya! Saya adalah seorang mahasiswa Informatika yang tertarik dalam bidang pengembangan perangkat lunak dan khususnya mobile development. Saya senang belajar dan berbagi pengetahuan tentang teknologi terkini.
 
+Jika Anda ingin berkenalan lebih lanjut dengan saya, silakan kunjungi [LinkedIn](https://www.linkedin.com/in/reynhard-powiwi) dan [Instagram](https://www.instagram.com/reiiinnn_).
 
-Selamat datang di profil saya! Saya sangat senang bisa bertemu dengan Anda di sini. Perkenalkan, nama saya Reynhard Powiwi, dan saya adalah seorang Mahasiswa Informatika di Telkom University. Saya memiliki minat yang besar dalam dunia teknologi, pengembangan perangkat lunak, dan pemecahan masalah.
+## Statistik Aktivitas GitHub
 
-Saya percaya bahwa kolaborasi dan berbagi pengetahuan adalah kunci keberhasilan. Oleh karena itu, saya selalu terbuka untuk menjalin hubungan baru dan belajar dari orang-orang yang berpengalaman di bidang ini. Jika Anda memiliki minat yang serupa atau ingin berkenalan lebih jauh, jangan ragu untuk menghubungi saya melalui akun LinkedIn saya yang dapat Anda temukan di bawah ini.
+[![Statistik Aktivitas](https://github-readme-stats.vercel.app/api?username=reypowgithub&show_icons=true&theme=dark)](https://github.com/reypowgithub)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reynhard_Powiwi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/reynhard-powiwi)
+## Bahasa Pemograman
+![Bahasa](https://img.shields.io/badge/🌐-HTML-lime)
+![Bahasa](https://img.shields.io/badge/🎨-CSS-lime)
+![Bahasa](https://img.shields.io/badge/☕️-JavaScript-lime)
+![Bahasa](https://img.shields.io/badge/🐍-Python-lime)
+![Bahasa](https://img.shields.io/badge/⭐️-Kotlin-lime)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Reynhard_Powiwi-ff69b4?logo=instagram&style=flat-square)](https://www.instagram.com/reiiinnn_)
+## Lisensi
+
+Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
+
+## Penutup
+
+Terima kasih telah mengunjungi profil saya! Jika Anda memiliki pertanyaan atau ingin berhubungan dengan saya, jangan ragu untuk menghubungi saya melalui LinkedIn atau Instagram. Saya berharap dapat berkolaborasi dengan Anda pada proyek yang menarik!
+
+Salam,
+Nama Anda
