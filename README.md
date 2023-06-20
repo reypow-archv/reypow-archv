@@ -1,23 +1,9 @@
-### Hi Semuanya 👋
 
-Perkenalkan nama saya **Reynhard Powiwi**.\
-
-Saya seorang **Mahasiswa Informatika** di Telkom University .\
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/reynhard-powiwi/)ku ya.
-
-<!--
-**reypow-archv/reypow-archv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi Semuanya 👋
 
 
-Here are some ideas to get you started:
+Selamat datang di profil saya! Saya sangat senang bisa bertemu dengan Anda di sini. Perkenalkan, nama saya Reynhard Powiwi, dan saya adalah seorang Mahasiswa Informatika di Telkom University. Saya memiliki minat yang besar dalam dunia teknologi, pengembangan perangkat lunak, dan pemecahan masalah.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya percaya bahwa kolaborasi dan berbagi pengetahuan adalah kunci keberhasilan. Oleh karena itu, saya selalu terbuka untuk menjalin hubungan baru dan belajar dari orang-orang yang berpengalaman di bidang ini. Jika Anda memiliki minat yang serupa atau ingin berkenalan lebih jauh, jangan ragu untuk menghubungi saya melalui akun LinkedIn saya yang dapat Anda temukan di bawah ini.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reynhard_Powiwi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/reynhard-powiwi)
