@@ -9,13 +9,6 @@ Jika Anda ingin berkenalan lebih lanjut dengan saya, silakan kunjungi [LinkedIn]
 [![Statistik Aktivitas](https://github-readme-stats.vercel.app/api?username=reypowgithub&show_icons=true&theme=dark)](https://github.com/reypowgithub)
 [![Statistik Bahasa Pemrograman](https://github-readme-stats.vercel.app/api/top-langs/?username=reypowgithub&langs_count=5&layout=compact&theme=dark)](https://github.com/reypowgithub)
 
-## Bahasa Pemograman
-![Bahasa](https://img.shields.io/badge/🌐-HTML-lime)
-![Bahasa](https://img.shields.io/badge/🎨-CSS-lime)
-![Bahasa](https://img.shields.io/badge/☕️-JavaScript-lime)
-![Bahasa](https://img.shields.io/badge/🐍-Python-lime)
-![Bahasa](https://img.shields.io/badge/⭐️-Kotlin-lime)
-
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
