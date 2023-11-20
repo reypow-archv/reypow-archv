@@ -2,7 +2,7 @@
 
 Welcome to my profile! I'm a Computer Science student with a passion for software development, especially in the realm of mobile development. I love learning and sharing knowledge about the latest technologies.
 
-If you want to get to know me better, please visit my [LinkedIn](https://www.linkedin.com/in/reynhard-powiwi) and [Instagram](https://www.instagram.com/reiiinnn_).
+If you want to get to know me better, please visit my [LinkedIn](https://www.linkedin.com/in/reynhard-powiwi) and [Instagram](https://www.instagram.com/reynhardpowiwi).
 
 ## GitHub Activity Statistics
 
