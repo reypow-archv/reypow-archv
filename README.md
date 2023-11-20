@@ -1,21 +1,21 @@
-# Halo Semuanya! 👋
+# Hello Everyone! 👋
 
-Selamat datang di profil saya! Saya adalah seorang mahasiswa Informatika yang tertarik dalam bidang pengembangan perangkat lunak dan khususnya mobile development. Saya senang belajar dan berbagi pengetahuan tentang teknologi terkini.
+Welcome to my profile! I'm a Computer Science student with a passion for software development, especially in the realm of mobile development. I love learning and sharing knowledge about the latest technologies.
 
-Jika Anda ingin berkenalan lebih lanjut dengan saya, silakan kunjungi [LinkedIn](https://www.linkedin.com/in/reynhard-powiwi) dan [Instagram](https://www.instagram.com/reiiinnn_).
+If you want to get to know me better, please visit my [LinkedIn](https://www.linkedin.com/in/reynhard-powiwi) and [Instagram](https://www.instagram.com/reiiinnn_).
 
-## Statistik Aktivitas GitHub
+## GitHub Activity Statistics
 
-[![Statistik Aktivitas](https://github-readme-stats.vercel.app/api?username=reypowgithub&show_icons=true&theme=dark)](https://github.com/reypowgithub)
-[![Statistik Bahasa Pemrograman](https://github-readme-stats.vercel.app/api/top-langs/?username=reypowgithub&langs_count=5&layout=compact&theme=dark)](https://github.com/reypowgithub)
+[![Activity Stats](https://github-readme-stats.vercel.app/api?username=reypowgithub&show_icons=true&theme=dark)](https://github.com/reypowgithub)
+[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reypowgithub&langs_count=5&layout=compact&theme=dark)](https://github.com/reypowgithub)
 
-## Lisensi
+## License
 
-Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
-## Penutup
+## Closing
 
-Terima kasih telah mengunjungi profil saya! Jika Anda memiliki pertanyaan atau ingin berhubungan dengan saya, jangan ragu untuk menghubungi saya melalui LinkedIn atau Instagram. Saya berharap dapat berkolaborasi dengan Anda pada proyek yang menarik!
+Thank you for visiting my profile! If you have any questions or would like to connect, don't hesitate to reach out to me on LinkedIn or Instagram. I'm excited about the possibility of collaborating with you on interesting projects!
 
-Salam,
+Best regards,
 Reynhard
